@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.flightsdk.flights",
+    "package_name": "com.flightsdk.flights2",
     "sha256_cert_fingerprints":
     ["83:4C:F9:21:B1:F9:56:1D:17:7D:49:99:63:7E:40:1C:C0:63:87:A5:E5:31:B0:5B:8E:DF:EC:8E:DA:A0:BF:A1"]
   }
