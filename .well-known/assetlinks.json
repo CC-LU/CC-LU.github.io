@@ -11,7 +11,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.owen.biometricsample",
+    "package_name": "com.owen.biometricsample2",
     "sha256_cert_fingerprints":
     ["5A:11:E9:24:53:EC:1D:1E:F9:9D:34:5B:7C:6A:BA:5F:22:CA:1C:22:9B:1E:F7:EA:37:FC:4D:4B:93:EE:55:D6"]
   }
